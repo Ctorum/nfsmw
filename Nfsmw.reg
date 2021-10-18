@@ -1,0 +1,47 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Need for Speed Most Wanted]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Need for Speed Most Wanted\ergc]
+@="PL33NKMLS49XDR7W6MY9"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA GAMES]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA GAMES\Need for Speed Most Wanted]
+"CD Drive"="C:\\Need for Speed Most Wanted"
+"DisplayName"="Need for Speedô Most Wanted"
+"Install Dir"="C:\\Need for Speed Most Wanted"
+"Installed From"="E:\\ÕÓ‚‡ˇ Ô‡ÔÍ‡"
+"Language"="English US"
+"Locale"="en_us"
+"Registration"="SOFTWARE\\Electronic Arts\\EA GAMES\\Need for Speed Most Wanted\\ergc"
+"SwapSize"="73400320"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA GAMES\Need for Speed Most Wanted\1.0]
+"DisplayName"="Need for Speedô Most Wanted"
+"LanguageName"="English US"
+"Language"=dword:00000001
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Need for Speed Most Wanted_is1]
+"Inno Setup: Setup Version"="5.0.8"
+"Inno Setup: App Path"="C:\\Need for Speed Most Wanted"
+"InstallLocation"="C:\\Need for Speed Most Wanted\\"
+"Inno Setup: Icon Group"="EA GAMES\\Need for Speed Most Wanted"
+"Inno Setup: User"="Pavlik"
+"Inno Setup: Setup Type"="enginstall"
+"Inno Setup: Selected Components"="engfiles"
+"Inno Setup: Deselected Components"="rusfiles"
+"Inno Setup: Selected Tasks"="desktopicon"
+"Inno Setup: Deselected Tasks"=""
+"DisplayName"="Need for Speed Most Wanted"
+"UninstallString"="\"C:\\Need for Speed Most Wanted\\unins000.exe\""
+"QuietUninstallString"="\"C:\\Need for Speed Most Wanted\\unins000.exe\" /SILENT"
+"NoModify"=dword:00000001
+"NoRepair"=dword:00000001
+
